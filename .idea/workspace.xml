@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="537cb793-b6be-4972-b8b5-961115159901" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Z3ap8htUyyVC4zgH1Mzchq0vI8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/form-foro.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\practicas\videoJQuery" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="537cb793-b6be-4972-b8b5-961115159901" name="Default Changelist" comment="" />
+      <created>1584070411074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584070411074</updated>
+      <workItem from="1584070412442" duration="76000" />
+      <workItem from="1584070825483" duration="3158000" />
+      <workItem from="1584414043699" duration="8206000" />
+      <workItem from="1584495974784" duration="9873000" />
+      <workItem from="1584765999598" duration="4679000" />
+      <workItem from="1584833083494" duration="6171000" />
+      <workItem from="1584924693277" duration="8055000" />
+      <workItem from="1585441836258" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="234" key="FileChooserDialogImpl" timestamp="1585441867307">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="234" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1585441867307" />
+    <state x="440" y="306" key="NewPhpClassDialog" timestamp="1584503319794">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="440" y="306" key="NewPhpClassDialog/0.0.1280.984@0.0.1280.984" timestamp="1584503319794" />
+    <state x="474" y="415" key="NewPhpFileDialog" timestamp="1584932302244">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="474" y="415" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1584932302244" />
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1585441840403">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1585441840403" />
+  </component>
+</project>
